@@ -19708,7 +19708,7 @@ body.white-version .rn-btn-ulderline {
 
 /* Custom  start*/
 .logo404{
-  color: #FF014F;
+  color: #FF014F !important;
 }
 .skill-icons{
   font-size: 2rem;
