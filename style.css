@@ -19720,3 +19720,9 @@ body.white-version .rn-btn-ulderline {
 .feature-img{
   width: 50px;
 }
+
+.profile-container img{
+  width: 200px;
+  height: 400px !important; 
+  border-radius: 50%;
+}
